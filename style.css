@@ -1,0 +1,33 @@
+.banner {
+  background-image: url(images/gb4.jpeg);
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #dc3545;
+}
+
+.lingkaran I {
+  position: relative;
+  top: 30px;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+
+.kontak {
+  background: url(images/foto1.jpeg) no-repeat center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #000000;
+}
